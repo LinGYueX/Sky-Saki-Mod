@@ -1,4 +1,4 @@
-# SakiSky Mod
+# SakiSky Mod (中国版光遇辅助工具)
 
 > 光遇辅助工具
 
