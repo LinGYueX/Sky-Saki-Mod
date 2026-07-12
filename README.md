@@ -4,7 +4,7 @@
 
 **SakiSky Mod** 是一款面向《光·遇》中国服的模组注入工具，提供变速、自动跑图、无限能量、坐标传送、地图传送等一系列辅助功能，帮助玩家更高效地探索天空王国。
 
-(不再开源以及免费使用，有需求者请前往"https://m.tb.cn/h.Ry5nLLG?tk=6L1ggN2mxER")
+(不再开源以及免费使用，有需求者请前往"[https://m.tb.cn/h.Ry5nLLG?tk=6L1ggN2mxER](https://m.tb.cn/h.RALsfKP?tk=Ol9UgpymIbD)")
 
 ---
 
